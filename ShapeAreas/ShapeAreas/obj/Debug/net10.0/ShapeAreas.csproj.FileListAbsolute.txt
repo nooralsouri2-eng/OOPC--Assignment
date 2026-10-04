@@ -1,0 +1,15 @@
+C:\Users\840G6\source\repos\ShapeAreas\ShapeAreas\bin\Debug\net10.0\ShapeAreas.exe
+C:\Users\840G6\source\repos\ShapeAreas\ShapeAreas\bin\Debug\net10.0\ShapeAreas.deps.json
+C:\Users\840G6\source\repos\ShapeAreas\ShapeAreas\bin\Debug\net10.0\ShapeAreas.runtimeconfig.json
+C:\Users\840G6\source\repos\ShapeAreas\ShapeAreas\bin\Debug\net10.0\ShapeAreas.dll
+C:\Users\840G6\source\repos\ShapeAreas\ShapeAreas\bin\Debug\net10.0\ShapeAreas.pdb
+C:\Users\840G6\source\repos\ShapeAreas\ShapeAreas\obj\Debug\net10.0\ShapeAreas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\840G6\source\repos\ShapeAreas\ShapeAreas\obj\Debug\net10.0\ShapeAreas.AssemblyInfoInputs.cache
+C:\Users\840G6\source\repos\ShapeAreas\ShapeAreas\obj\Debug\net10.0\ShapeAreas.AssemblyInfo.cs
+C:\Users\840G6\source\repos\ShapeAreas\ShapeAreas\obj\Debug\net10.0\ShapeAreas.csproj.CoreCompileInputs.cache
+C:\Users\840G6\source\repos\ShapeAreas\ShapeAreas\obj\Debug\net10.0\ShapeAreas.dll
+C:\Users\840G6\source\repos\ShapeAreas\ShapeAreas\obj\Debug\net10.0\refint\ShapeAreas.dll
+C:\Users\840G6\source\repos\ShapeAreas\ShapeAreas\obj\Debug\net10.0\ShapeAreas.pdb
+C:\Users\840G6\source\repos\ShapeAreas\ShapeAreas\obj\Debug\net10.0\ShapeAreas.genruntimeconfig.cache
+C:\Users\840G6\source\repos\ShapeAreas\ShapeAreas\obj\Debug\net10.0\ref\ShapeAreas.dll
+C:\Users\840G6\source\repos\ShapeAreas\ShapeAreas\obj\Debug\net10.0\ShapeAreas.csproj.Up2Date
