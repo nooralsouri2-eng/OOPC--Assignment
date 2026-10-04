@@ -1,0 +1,15 @@
+C:\Users\840G6\source\repos\UniversityMembers2\UniversityMembers2\bin\Debug\net10.0\UniversityMembers2.exe
+C:\Users\840G6\source\repos\UniversityMembers2\UniversityMembers2\bin\Debug\net10.0\UniversityMembers2.deps.json
+C:\Users\840G6\source\repos\UniversityMembers2\UniversityMembers2\bin\Debug\net10.0\UniversityMembers2.runtimeconfig.json
+C:\Users\840G6\source\repos\UniversityMembers2\UniversityMembers2\bin\Debug\net10.0\UniversityMembers2.dll
+C:\Users\840G6\source\repos\UniversityMembers2\UniversityMembers2\bin\Debug\net10.0\UniversityMembers2.pdb
+C:\Users\840G6\source\repos\UniversityMembers2\UniversityMembers2\obj\Debug\net10.0\UniversityMembers2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\840G6\source\repos\UniversityMembers2\UniversityMembers2\obj\Debug\net10.0\UniversityMembers2.AssemblyInfoInputs.cache
+C:\Users\840G6\source\repos\UniversityMembers2\UniversityMembers2\obj\Debug\net10.0\UniversityMembers2.AssemblyInfo.cs
+C:\Users\840G6\source\repos\UniversityMembers2\UniversityMembers2\obj\Debug\net10.0\UniversityMembers2.csproj.CoreCompileInputs.cache
+C:\Users\840G6\source\repos\UniversityMembers2\UniversityMembers2\obj\Debug\net10.0\UniversityMembers2.dll
+C:\Users\840G6\source\repos\UniversityMembers2\UniversityMembers2\obj\Debug\net10.0\refint\UniversityMembers2.dll
+C:\Users\840G6\source\repos\UniversityMembers2\UniversityMembers2\obj\Debug\net10.0\UniversityMembers2.pdb
+C:\Users\840G6\source\repos\UniversityMembers2\UniversityMembers2\obj\Debug\net10.0\UniversityMembers2.genruntimeconfig.cache
+C:\Users\840G6\source\repos\UniversityMembers2\UniversityMembers2\obj\Debug\net10.0\ref\UniversityMembers2.dll
+C:\Users\840G6\source\repos\UniversityMembers2\UniversityMembers2\obj\Debug\net10.0\Universi.3C65875D.Up2Date
